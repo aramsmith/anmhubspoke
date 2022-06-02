@@ -3,7 +3,7 @@
 #######################
 variable "project" {
   description = "Please provide project name for reference"
-  default = "ANM-Demo"
+  default = "DemoHubSpoke"
 }
 
 #######################
@@ -11,7 +11,7 @@ variable "project" {
 #######################
 variable "resource_group_name" {
   description = "Please provide Resource Group name"
-  default     = "ANM-HuBSpoke"
+  default     = "DemoHuBSpoke"
 }
 
 #######################
